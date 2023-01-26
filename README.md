@@ -9,3 +9,6 @@ Nesse desafio, você vai desenvolver uma aplicação de controle de tarefas no e
 - Marcar e desmarcar uma tarefa como concluída
 - Remover uma tarefa da listagem
 - Mostrar o progresso de conclusão das tarefas
+
+Figma do Projeto:
+https://www.figma.com/file/UYMHawDdT82pX0RFv6D9CW/ToDo-List-(Copy)?node-id=0%3A1&t=KBo558cRRl50Hyvg-0
